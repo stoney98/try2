@@ -1,5 +1,5 @@
 LogwLuaCore: LUA:[DumpTable.lua:143] table: 000001A02E302BE0 = {
-    [6028] = {
+    [6033] = {
         ["isDrop"] = false,
         ["failConditions"] = {
         },
